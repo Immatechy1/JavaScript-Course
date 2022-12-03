@@ -20,13 +20,13 @@ Reference Types: object, array and function
 
 Javascript is a dynamic typed language
 
-object in Javascript and programming language is like an object in reaL life
+<!-- object in Javascript and programming language is like an object in reaL life
 Array is a data structure use torepresent a list of items
 Function is a fundamental building blocks in javascript. is basically a set of statement that perform a task or calculate a value.
 
 ---------------------------------------------------------------------------
 Web App: Something available on internet.
 Internet: Is nothing but a browser. when we open a browser and click on a link what gets on the screen is a (web page)
-web page shows us the data we want to see
+web page shows us the data we want to see -->
 
   
