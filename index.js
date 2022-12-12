@@ -46,3 +46,5 @@ function square (number) {
 }
 
 console.log(square(2));
+
+alert("Hello World");
