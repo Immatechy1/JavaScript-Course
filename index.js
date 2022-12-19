@@ -1,3 +1,5 @@
+// https://www.daad.de/en/
+// https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4001/
 // let name = 'Imma'; //string
 // let age = 30; //number
 // let isApproved = true; //boolean
