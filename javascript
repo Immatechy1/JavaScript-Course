@@ -1,3 +1,13 @@
+// https://www.daad.de/en/
+// https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4001/
+//https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5444/#tab_overview
+//https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4230/#tab_overview
+//https://www.mastersportal.com/studies/10342/software-engineering.html?ref=search_card#content:requirement
+
+
+
+
+
 Javascript is a scripting language for creating dynamic web page.
 ECMAScript is a specification why JavaScript is a programming language that confirms to the specification.
 ECMA is responsible for defining standard. it take care of the ECMAScript specification
@@ -12,7 +22,7 @@ Rules in naming Variable
 2. They should be meaningful
 3. They cannot start with a number
 4. They cant contain a space or hyphen
-5. They are case sensitive
+5. They are case sensitive 
 
 
 Primitive/Value Types: string, number, boolean, undefined and null
