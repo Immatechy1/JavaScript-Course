@@ -1,52 +1,8 @@
-// https://www.daad.de/en/
-// https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4001/
-// let name = 'Imma'; //string
-// let age = 30; //number
-// let isApproved = true; //boolean
-// let firstName = undefined;
-// let selectedColour = null;
- 
-//OBJECT
-let person = {
-    name: "Imma",
-    age: 30
-};
+alert("hello world")
 
-//Dot Notation
-person.name = "john"
+var youLikeMeat = true;
 
-//Bracket Notation
-let selection = "name"
-person[selection] = 'mary'
+if (youLikeMeat) {
+    document.write("here is the meaty menu");
 
-console.log(person.name)
-
-//ARRAYS
-let selectedColours = ['red', 'blue'];
-selectedColours[2] = 1
-console.log(selectedColours.length)
-
-//Fuction
-function greet() {
-    console.log('hello world')
 }
-greet();
-
-
-//concatination
-//Performing a task
-function greet(name, lastName) {
-    console.log('hello ' + name + ' ' + lastName);
-}
-greet("john", "imma");
-greet("mary");
-// john is the agument why name is the parameter
-
-//Calculating a value
-function square (number) {
-    return number * number;
-}
-
-console.log(square(2));
-
-alert("Hello World");
