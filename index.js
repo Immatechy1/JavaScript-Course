@@ -48,5 +48,62 @@
 // }
 
 
+// var links = document.getElementsByTagName("a");
+
+// for (i = 1; i < links.length; i++) {
+//     console.log("this is link number" + i); 
+// }
+
+// document.write("all links now looped");
 
 
+// BREAK AND CONTINUE
+
+// for (i = 0; i < 10; i++) {
+//     console.log(i);
+
+//     if(i === 7) {
+//         break;
+//     }
+// }
+// console.log("i have broken out of the loop");
+
+// for (i = 0; i < 10; i++) {
+    
+//     if(i === 5 || i === 3 ) {
+//         continue;
+//     }
+
+//     console.log(i);
+
+//     if(i === 7) {
+//         break;
+//     }
+// }
+// console.log("i have broken out of the loop");
+
+// PRATICAL EXAMPLE USING LOOPS
+// var links = document.getElementsByTagName("a");
+
+// for (i = 0; i < links.length; i++) {
+//     links[i].className = "link-" + i;
+
+// }
+
+// FUNCTIONS
+
+// function getAverage (a,b) {
+//     var average = (a + b) /2
+//     console.log(average)
+// }
+
+// getAverage (7, 12);
+
+function getAverage (a,b) {
+    var average = (a + b) /2
+    console.log(average)
+    return average;
+}
+
+var myResult = getAverage (7, 12);
+console.log("the average is" + myResult);
