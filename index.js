@@ -99,11 +99,74 @@
 
 // getAverage (7, 12);
 
-function getAverage (a,b) {
-    var average = (a + b) /2
-    console.log(average)
-    return average;
-}
+// function getAverage (a,b) {
+//     var average = (a + b) /2
+//     console.log(average)
+//     return average;
+// }
 
-var myResult = getAverage (7, 12);
-console.log("the average is" + myResult);
+// var myResult = getAverage (7, 12);
+// console.log("the average is" + myResult);
+
+// GLOBAL AND LOCAL VARIABLE
+// function getAverage (a,b) {
+//     var average = (a + b) /2; //local variable
+//     console.log(average)
+//     return average;
+// }
+
+// var myResult = getAverage (7, 12); // global variable
+
+// function logResult() {
+//     console.log("the average is" + myResult + "inside the function");
+// }
+
+// logResult();
+
+//NUMBERS
+// var a = 7;
+// var b = 5;
+
+// console.log(a+b);
+
+// console.log(Math.round(7.8));
+
+// console.log(Math.floor(7.8));
+
+//STRING
+// var myString = 'I\'m a "fun" string ninja'
+// console.log(myString.length)
+// console.log(myString.toLocaleUpperCase());
+// console.log(myString.toLocaleLowerCase());
+// console.log(myString.indexOf("string"));
+// console.log(myString.indexOf("ninja"));
+
+// if (myString.indexOf("ninja")=== -1){
+//     console.log("the word ninja is not in the string");
+// } else {
+//     console.log("the word ninja starts at the position " + 
+//     myString.indexOf("ninja"));
+// }
+
+// var string1 = "abc";
+// var string2 = "ABC";
+
+// console.log(string1 === string2)
+// console.log(string1 > string2)
+
+//SLICE AND SPLIT STRING
+// var str = "hello world";
+// console.log(str.slice(2, 9));
+
+// var tags = "meat, ham, salami, pork, beef, chicken"
+// console.log(tags.split(","));
+
+//ARRAY
+// var myArray = [];
+// myArray[0] = 25
+// myArray[1] = 30
+// myArray[2] = true
+// myArray[3] = "hello"
+// console.log(myArray);
+// console.log(myArray.length);
+// console.log(myArray.sort());
