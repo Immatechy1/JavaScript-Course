@@ -172,7 +172,7 @@
 // console.log(myArray.sort());
 
 
-var myCar = new Object();
-myCar.maxSpeed = 50;
-myCar.driver = "Shaun"
-console.log(myCar.driver)
+// var myCar = new Object();
+// myCar.maxSpeed = 50;
+// myCar.driver = "Shaun"
+// console.log(myCar.driver)
