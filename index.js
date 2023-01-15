@@ -1,5 +1,5 @@
-// var youLikeMeat = false;
-// var myNum = 10
+var youLikeMeat = false;
+var myNum = 10
 
 // if (youLikeMeat) {
 //     document.write("here is the meaty menu");
