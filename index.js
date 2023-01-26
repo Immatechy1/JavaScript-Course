@@ -1,7 +1,7 @@
 var youLikeMeat = false;
 var myNum = 10
 
-// if (youLikeMeat) {
+if (youLikeMeat) {
 //     document.write("here is the meaty menu");
 // }
 
