@@ -1,7 +1,7 @@
 var youLikeMeat = false;
 var myNum = 10
 
-if (youLikeMeat) {
+// if (youLikeMeat) {
 //     document.write("here is the meaty menu");
 // }
 
@@ -172,7 +172,7 @@ if (youLikeMeat) {
 // console.log(myArray.sort());
 
 
-var myCar = new Object();
-myCar.maxSpeed = 50;
-myCar.driver = "Shaun"
-console.log(myCar.driver)
+// var myCar = new Object();
+// myCar.maxSpeed = 50;
+// myCar.driver = "Shaun"
+// console.log(myCar.driver)
