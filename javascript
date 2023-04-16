@@ -38,5 +38,3 @@ Function is a fundamental building blocks in javascript. is basically a set of s
 Web App: Something available on internet.
 Internet: Is nothing but a browser. when we open a browser and click on a link what gets on the screen is a (web page)
 web page shows us the data we want to see
-
-  
