@@ -1,7 +1,96 @@
 var youLikeMeat = false;
-var myNum = 10
+var myNum = 9;
+var myAge = 29
+var userAge = 25
+// var age = 5;
 
-if (youLikeMeat) {
+var link = document.getElementsByTagName("a")
+
+// if (youLikeMeat) {
+//     document.write("Here is the meaty menu"); 
+// }   else{
+//     document.write("You hate meat");
+// }
+
+// var myNum = 9;
+
+// if ( myNum === 10) {
+//     document.write("myNum  is greatervthan 10"); 
+// } else{
+//     document.write("myNum is not equal to 10")
+// }
+
+
+// if ( myAge > 30) {
+//     document.write("You are over 30"); 
+// }   else if  ( myAge > 20) {
+//     document.write("You are over 20");
+// } else if  ( myAge > 20) {
+//     document.write("You are over 10");
+// } else {
+//     document.write("You are not over 10");
+// }
+
+// if ( userAge >= 4 && userAge <= 30) {
+//     document.write("you can come cool dude"); 
+// } else {
+//     document.write("you aint coming");
+// }
+
+// while loop
+// while (age < 10) {
+//   console.log("your age is less than 10");
+//   age++;
+// }
+// document.write("you are now over 18");
+
+// for loops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// if (youLikeMeat) {
 //     document.write("here is the meaty menu");
 // }
 
@@ -70,7 +159,7 @@ if (youLikeMeat) {
 
 // for (i = 0; i < 10; i++) {
     
-//     if(i === 5 || i === 3 ) {
+//     if(i === 5 || i === 3 ) {   
 //         continue;
 //     }
 
@@ -172,7 +261,38 @@ if (youLikeMeat) {
 // console.log(myArray.sort());
 
 
-var myCar = new Object();
-myCar.maxSpeed = 50;
-myCar.driver = "Shaun"
-console.log(myCar.driver)
+// var myCar = new Object();
+// myCar.maxSpeed = 50;
+// myCar.driver = "Shaun"
+// myCar.drive = function() { console.log ('now driving')}
+
+// myCar.drive()
+
+// var myCar2 = {
+//     maxSpeed: 70,
+//     driver: "Net Ninja",
+//     drive: function(speed, time) { 
+//         console.log (speed * time);
+//     },
+
+//     test: function() {
+//         console.log(myCar2)
+//     }
+// }
+
+// var myCar3 = {
+//     maxSpeed: 70,
+//     driver: "Shaun",
+//     drive: function(speed, time) { 
+//         console.log (speed * time);
+//     },
+
+//     test: function() {
+//         console.log(myCar3)
+//     }
+// }
+
+// myCar2.test();
+// myCar3.test();
+// console.log(myCar2.maxSpeed);
+// myCar2.drive(50, 3);
